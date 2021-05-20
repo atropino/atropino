@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Senior IT PM, but also Junior python dev (coder) 
-- 👀 I’m interested in part-time coder review or coder rewrite 
+- 👀 I’m interested in part-time code review or code rewrite 
 - 🌱 I’m currently learning PyPi, PyCharm, Robot framework
 - 💞️ I’m looking to collaborate on aby project mainly in junior issues
 - 📫 How to reach me piotr.silarow@atropino.pl 
